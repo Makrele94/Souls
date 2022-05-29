@@ -349,6 +349,8 @@
 "Assets/InputHandler.cs"
 "Assets/PlayerControls.cs"
 "Assets/PlayerLocomotion.cs"
+"Assets/PlayerManager.cs"
+"Assets/ResetIsInteracting.cs"
 -langversion:9.0
 
 /deterministic

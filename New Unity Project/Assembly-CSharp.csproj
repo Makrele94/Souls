@@ -54,10 +54,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\AnimatorHandler.cs" />
+    <Compile Include="Assets\PlayerManager.cs" />
+    <Compile Include="Assets\ResetIsInteracting.cs" />
+    <Compile Include="Assets\CameraHandler.cs" />
     <Compile Include="Assets\InputHandler.cs" />
     <Compile Include="Assets\PlayerLocomotion.cs" />
     <Compile Include="Assets\PlayerControls.cs" />
-    <Compile Include="Assets\CameraHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
